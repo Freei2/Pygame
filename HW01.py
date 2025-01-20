@@ -16,6 +16,7 @@ while running:
 
     # RENDER YOUR GAME HERE
 
+    # ภูเขา
     pygame.draw.circle(screen, (34, 139, 34), (50, 400), 250)
     pygame.draw.circle(screen, (34, 139, 34), (400, 400), 250)
     pygame.draw.circle(screen, (34, 139, 34), (800, 400), 250)
